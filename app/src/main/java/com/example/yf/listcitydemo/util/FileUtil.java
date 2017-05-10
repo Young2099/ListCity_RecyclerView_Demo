@@ -4,7 +4,6 @@ import android.content.Context;
 
 import com.example.yf.listcitydemo.R;
 
-import org.apache.http.util.EncodingUtils;
 
 import java.io.InputStream;
 
@@ -24,7 +23,7 @@ public class FileUtil {
             byte[] buffer = new byte[lenght];
             // 将文件中的数据读到byte数组中
             in.read(buffer);
-            result = EncodingUtils.getString(buffer, "utf-8");
+            result = new String(buffer,"utf-8");
             in.close();
         } catch (Exception e) {
             e.printStackTrace();
