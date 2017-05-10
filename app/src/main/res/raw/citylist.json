@@ -1,0 +1,1408 @@
+﻿[
+    {
+        "key": "A", 
+        "list": [
+            {
+                "realname": "澳门", 
+                "displayname": "澳门"
+            }, 
+            {
+                "realname": "阿坝藏族羌族自治州", 
+                "displayname": "阿坝"
+            }, 
+            {
+                "realname": "阿克苏地区", 
+                "displayname": "阿克苏"
+            }, 
+            {
+                "realname": "阿勒泰地区", 
+                "displayname": "阿勒泰"
+            },
+            {
+                "realname": "安康", 
+                "displayname": "安康"
+            }, 
+            {
+                "realname": "安庆", 
+                "displayname": "安庆"
+            }, 
+            {
+                "realname": "安顺", 
+                "displayname": "安顺"
+            }, 
+            {
+                "realname": "安阳", 
+                "displayname": "安阳"
+            }, 
+            {
+                "realname": "鞍山", 
+                "displayname": "鞍山"
+            }
+        ]
+    }, 
+    {
+        "key": "B", 
+        "list": [
+            {
+                "realname": "北京", 
+                "displayname": "北京"
+            }, 
+            {
+                "realname": "巴中", 
+                "displayname": "巴中"
+            }, 
+            {
+                "realname": "白城", 
+                "displayname": "白城"
+            }, 
+            {
+                "realname": "白山", 
+                "displayname": "白山"
+            }, 
+            {
+                "realname": "白银", 
+                "displayname": "白银"
+            }, 
+            {
+                "realname": "百色", 
+                "displayname": "百色"
+            }, 
+            {
+                "realname": "蚌埠", 
+                "displayname": "蚌埠"
+            }, 
+            {
+                "realname": "包头", 
+                "displayname": "包头"
+            }, 
+            {
+                "realname": "宝鸡", 
+                "displayname": "宝鸡"
+            }, 
+            {
+                "realname": "保定", 
+                "displayname": "保定"
+            }, 
+            {
+                "realname": "保山", 
+                "displayname": "保山"
+            }, 
+            {
+                "realname": "北海", 
+                "displayname": "北海"
+            }, 
+            {
+                "realname": "本溪", 
+                "displayname": "本溪"
+            }, 
+            {
+                "realname": "毕节地区", 
+                "displayname": "毕节地区"
+            }, 
+            {
+                "realname": "滨州", 
+                "displayname": "滨州"
+            },
+            {
+                "realname": "亳州",
+                "displayname": "亳州"
+            }
+        ]
+    }, 
+    {
+        "key": "C", 
+        "list": [
+            {
+                "realname": "重庆", 
+                "displayname": "重庆"
+            }, 
+            {
+                "realname": "成都", 
+                "displayname": "成都"
+            }, 
+            {
+                "realname": "长春", 
+                "displayname": "长春"
+            }, 
+            {
+                "realname": "长沙", 
+                "displayname": "长沙"
+            }, 
+            {
+                "realname": "长治", 
+                "displayname": "长治"
+            }, 
+            {
+                "realname": "沧州", 
+                "displayname": "沧州"
+            }, 
+            {
+                "realname": "昌都地区", 
+                "displayname": "昌都地区"
+            }, 
+            {
+                "realname": "昌吉回族自治州", 
+                "displayname": "昌吉"
+            }, 
+            {
+                "realname": "常德", 
+                "displayname": "常德"
+            }, 
+            {
+                "realname": "常州", 
+                "displayname": "常州"
+            }, 
+            {
+                "realname": "巢湖", 
+                "displayname": "巢湖"
+            }, 
+            {
+                "realname": "朝阳", 
+                "displayname": "朝阳"
+            }, 
+            {
+                "realname": "潮州", 
+                "displayname": "潮州"
+            }, 
+            {
+                "realname": "郴州", 
+                "displayname": "郴州"
+            }, 
+            {
+                "realname": "承德", 
+                "displayname": "承德"
+            }, 
+            {
+                "realname": "池州", 
+                "displayname": "池州"
+            }, 
+            {
+                "realname": "赤峰", 
+                "displayname": "赤峰"
+            }, 
+            {
+                "realname": "崇左", 
+                "displayname": "崇左"
+            }, 
+            {
+                "realname": "滁州", 
+                "displayname": "滁州"
+            }, 
+            {
+                "realname": "楚雄彝族自治州", 
+                "displayname": "楚雄"
+            }
+        ]
+    }, 
+    {
+        "key": "D", 
+        "list": [
+            {
+                "realname": "大连", 
+                "displayname": "大连"
+            }, 
+            {
+                "realname": "东莞", 
+                "displayname": "东莞"
+            }, 
+            {
+                "realname": "达州", 
+                "displayname": "达州"
+            }, 
+            {
+                "realname": "大理白族自治州", 
+                "displayname": "大理"
+            }, 
+            {
+                "realname": "大庆", 
+                "displayname": "大庆"
+            }, 
+            {
+                "realname": "大同", 
+                "displayname": "大同"
+            }, 
+            {
+                "realname": "大兴安岭地区", 
+                "displayname": "大兴安岭"
+            }, 
+            {
+                "realname": "丹东", 
+                "displayname": "丹东"
+            }, 
+            {
+                "realname": "德宏傣族景颇族自治州", 
+                "displayname": "德宏"
+            }, 
+            {
+                "realname": "德阳", 
+                "displayname": "德阳"
+            }, 
+            {
+                "realname": "德州", 
+                "displayname": "德州"
+            }, 
+            {
+                "realname": "定西", 
+                "displayname": "定西"
+            }, 
+            {
+                "realname": "东营", 
+                "displayname": "东营"
+            }
+        ]
+    }, 
+    {
+        "key": "E", 
+        "list": [
+            {
+                "realname": "鄂尔多斯", 
+                "displayname": "鄂尔多斯"
+            }, 
+            {
+                "realname": "鄂州", 
+                "displayname": "鄂州"
+            }, 
+            {
+                "realname": "恩施土家族苗族自治州", 
+                "displayname": "恩施"
+            }
+        ]
+    }, 
+    {
+        "key": "F", 
+        "list": [
+            {
+                "realname": "防城港", 
+                "displayname": "防城港"
+            }, 
+            {
+                "realname": "佛山", 
+                "displayname": "佛山"
+            }, 
+            {
+                "realname": "福州", 
+                "displayname": "福州"
+            }, 
+            {
+                "realname": "抚顺", 
+                "displayname": "抚顺"
+            }, 
+            {
+                "realname": "抚州", 
+                "displayname": "抚州"
+            }, 
+            {
+                "realname": "阜新", 
+                "displayname": "阜新"
+            }, 
+            {
+                "realname": "阜阳", 
+                "displayname": "阜阳"
+            }
+        ]
+    }, 
+    {
+        "key": "G", 
+        "list": [
+            {
+                "realname": "广州", 
+                "displayname": "广州"
+            }, 
+            {
+                "realname": "贵阳", 
+                "displayname": "贵阳"
+            }, 
+            {
+                "realname": "桂林", 
+                "displayname": "桂林"
+            }, 
+            {
+                "realname": "甘南藏族自治州", 
+                "displayname": "甘南"
+            }, 
+            {
+                "realname": "甘孜藏族自治州", 
+                "displayname": "甘孜"
+            }, 
+            {
+                "realname": "赣州", 
+                "displayname": "赣州"
+            }, 
+            {
+                "realname": "固原", 
+                "displayname": "固原"
+            }, 
+            {
+                "realname": "广安", 
+                "displayname": "广安"
+            }, 
+            {
+                "realname": "广元", 
+                "displayname": "广元"
+            }, 
+            {
+                "realname": "贵港", 
+                "displayname": "贵港"
+            }, 
+            {
+                "realname": "果洛藏族自治州", 
+                "displayname": "果洛"
+            }
+        ]
+    }, 
+    {
+        "key": "H", 
+        "list": [
+            {
+                "realname": "杭州", 
+                "displayname": "杭州"
+            }, 
+            {
+                "realname": "合肥", 
+                "displayname": "合肥"
+            }, 
+            {
+                "realname": "海口", 
+                "displayname": "海口"
+            }, 
+            {
+                "realname": "哈尔滨", 
+                "displayname": "哈尔滨"
+            }, 
+            {
+                "realname": "哈密地区", 
+                "displayname": "哈密地区"
+            }, 
+            {
+                "realname": "海北藏族自治州", 
+                "displayname": "海北"
+            }, 
+            {
+                "realname": "海东地区", 
+                "displayname": "海东地区"
+            }, 
+            {
+                "realname": "海南藏族自治州", 
+                "displayname": "海南"
+            }, 
+            {
+                "realname": "海西蒙古族藏族自治州", 
+                "displayname": "海西"
+            }, 
+            {
+                "realname": "邯郸", 
+                "displayname": "邯郸"
+            }, 
+            {
+                "realname": "汉中", 
+                "displayname": "汉中"
+            }, 
+            {
+                "realname": "和田地区", 
+                "displayname": "和田地区"
+            }, 
+            {
+                "realname": "河池", 
+                "displayname": "河池"
+            }, 
+            {
+                "realname": "河源", 
+                "displayname": "河源"
+            }, 
+            {
+                "realname": "菏泽", 
+                "displayname": "菏泽"
+            }, 
+            {
+                "realname": "贺州", 
+                "displayname": "贺州"
+            }, 
+            {
+                "realname": "鹤壁", 
+                "displayname": "鹤壁"
+            }, 
+            {
+                "realname": "鹤岗", 
+                "displayname": "鹤岗"
+            }, 
+            {
+                "realname": "黑河", 
+                "displayname": "黑河"
+            }, 
+            {
+                "realname": "衡水", 
+                "displayname": "衡水"
+            }, 
+            {
+                "realname": "衡阳", 
+                "displayname": "衡阳"
+            }, 
+            {
+                "realname": "红河哈尼族彝族自治州", 
+                "displayname": "红河"
+            }, 
+            {
+                "realname": "呼和浩特", 
+                "displayname": "呼和浩特"
+            }, 
+            {
+                "realname": "呼伦贝尔", 
+                "displayname": "呼伦贝尔"
+            }, 
+            {
+                "realname": "葫芦岛", 
+                "displayname": "葫芦岛"
+            }, 
+            {
+                "realname": "湖州", 
+                "displayname": "湖州"
+            }, 
+            {
+                "realname": "怀化", 
+                "displayname": "怀化"
+            }, 
+            {
+                "realname": "淮安", 
+                "displayname": "淮安"
+            }, 
+            {
+                "realname": "淮北", 
+                "displayname": "淮北"
+            }, 
+            {
+                "realname": "淮南", 
+                "displayname": "淮南"
+            }, 
+            {
+                "realname": "黄冈", 
+                "displayname": "黄冈"
+            }, 
+            {
+                "realname": "黄南藏族自治州", 
+                "displayname": "黄南"
+            }, 
+            {
+                "realname": "黄山", 
+                "displayname": "黄山"
+            }, 
+            {
+                "realname": "黄石", 
+                "displayname": "黄石"
+            }, 
+            {
+                "realname": "惠州", 
+                "displayname": "惠州"
+            }
+        ]
+    }, 
+    {
+        "key": "J", 
+        "list": [
+            {
+                "realname": "济南", 
+                "displayname": "济南"
+            }, 
+            {
+                "realname": "鸡西", 
+                "displayname": "鸡西"
+            }, 
+            {
+                "realname": "吉安", 
+                "displayname": "吉安"
+            }, 
+            {
+                "realname": "吉林", 
+                "displayname": "吉林"
+            }, 
+            {
+                "realname": "济宁", 
+                "displayname": "济宁"
+            }, 
+            {
+                "realname": "佳木斯", 
+                "displayname": "佳木斯"
+            }, 
+            {
+                "realname": "嘉兴", 
+                "displayname": "嘉兴"
+            }, 
+            {
+                "realname": "嘉峪关", 
+                "displayname": "嘉峪关"
+            }, 
+            {
+                "realname": "江门", 
+                "displayname": "江门"
+            }, 
+            {
+                "realname": "焦作", 
+                "displayname": "焦作"
+            }, 
+            {
+                "realname": "揭阳", 
+                "displayname": "揭阳"
+            }, 
+            {
+                "realname": "金昌", 
+                "displayname": "金昌"
+            }, 
+            {
+                "realname": "金华", 
+                "displayname": "金华"
+            }, 
+            {
+                "realname": "锦州", 
+                "displayname": "锦州"
+            }, 
+            {
+                "realname": "晋城", 
+                "displayname": "晋城"
+            }, 
+            {
+                "realname": "晋中", 
+                "displayname": "晋中"
+            }, 
+            {
+                "realname": "荆门", 
+                "displayname": "荆门"
+            }, 
+            {
+                "realname": "荆州", 
+                "displayname": "荆州"
+            }, 
+            {
+                "realname": "景德镇", 
+                "displayname": "景德镇"
+            }, 
+            {
+                "realname": "九江", 
+                "displayname": "九江"
+            }, 
+            {
+                "realname": "酒泉", 
+                "displayname": "酒泉"
+            }
+        ]
+    }, 
+    {
+        "key": "K", 
+        "list": [
+            {
+                "realname": "昆明", 
+                "displayname": "昆明"
+            }, 
+            {
+                "realname": "喀什地区", 
+                "displayname": "喀什地区"
+            }, 
+            {
+                "realname": "开封", 
+                "displayname": "开封"
+            }, 
+            {
+                "realname": "克拉玛依", 
+                "displayname": "克拉玛依"
+            }, 
+            {
+                "realname": "克孜勒苏柯尔克孜自治州", 
+                "displayname": "克州"
+            }
+        ]
+    }, 
+    {
+        "key": "L", 
+        "list": [
+            {
+                "realname": "洛阳", 
+                "displayname": "洛阳"
+            }, 
+            {
+                "realname": "拉萨", 
+                "displayname": "拉萨"
+            }, 
+            {
+                "realname": "兰州", 
+                "displayname": "兰州"
+            }, 
+            {
+                "realname": "来宾", 
+                "displayname": "来宾"
+            }, 
+            {
+                "realname": "莱芜", 
+                "displayname": "莱芜"
+            }, 
+            {
+                "realname": "廊坊", 
+                "displayname": "廊坊"
+            }, 
+            {
+                "realname": "乐山", 
+                "displayname": "乐山"
+            }, 
+            {
+                "realname": "丽江", 
+                "displayname": "丽江"
+            }, 
+            {
+                "realname": "丽水", 
+                "displayname": "丽水"
+            }, 
+            {
+                "realname": "连云港", 
+                "displayname": "连云港"
+            }, 
+            {
+                "realname": "凉山彝族自治州", 
+                "displayname": "凉山"
+            }, 
+            {
+                "realname": "辽阳", 
+                "displayname": "辽阳"
+            }, 
+            {
+                "realname": "辽源", 
+                "displayname": "辽源"
+            }, 
+            {
+                "realname": "聊城", 
+                "displayname": "聊城"
+            }, 
+            {
+                "realname": "林芝地区", 
+                "displayname": "林芝地区"
+            }, 
+            {
+                "realname": "临沧", 
+                "displayname": "临沧"
+            }, 
+            {
+                "realname": "临汾", 
+                "displayname": "临汾"
+            }, 
+            {
+                "realname": "临夏回族自治州", 
+                "displayname": "临夏"
+            }, 
+            {
+                "realname": "临沂", 
+                "displayname": "临沂"
+            }, 
+            {
+                "realname": "柳州", 
+                "displayname": "柳州"
+            }, 
+            {
+                "realname": "六安", 
+                "displayname": "六安"
+            }, 
+            {
+                "realname": "六盘水", 
+                "displayname": "六盘水"
+            }, 
+            {
+                "realname": "龙岩", 
+                "displayname": "龙岩"
+            }, 
+            {
+                "realname": "娄底", 
+                "displayname": "娄底"
+            }, 
+            {
+                "realname": "泸州", 
+                "displayname": "泸州"
+            }, 
+            {
+                "realname": "漯河", 
+                "displayname": "漯河"
+            }, 
+            {
+                "realname": "吕梁", 
+                "displayname": "吕梁"
+            }
+        ]
+    }, 
+    {
+        "key": "M", 
+        "list": [
+            {
+                "realname": "马鞍山", 
+                "displayname": "马鞍山"
+            }, 
+            {
+                "realname": "茂名", 
+                "displayname": "茂名"
+            }, 
+            {
+                "realname": "眉山", 
+                "displayname": "眉山"
+            }, 
+            {
+                "realname": "梅州", 
+                "displayname": "梅州"
+            }, 
+            {
+                "realname": "绵阳", 
+                "displayname": "绵阳"
+            }, 
+            {
+                "realname": "牡丹江", 
+                "displayname": "牡丹江"
+            }
+        ]
+    }, 
+    {
+        "key": "N", 
+        "list": [
+            {
+                "realname": "南京", 
+                "displayname": "南京"
+            }, 
+            {
+                "realname": "宁波", 
+                "displayname": "宁波"
+            }, 
+            {
+                "realname": "南昌", 
+                "displayname": "南昌"
+            }, 
+            {
+                "realname": "那曲地区", 
+                "displayname": "那曲地区"
+            }, 
+            {
+                "realname": "南充", 
+                "displayname": "南充"
+            }, 
+            {
+                "realname": "南宁", 
+                "displayname": "南宁"
+            }, 
+            {
+                "realname": "南平", 
+                "displayname": "南平"
+            }, 
+            {
+                "realname": "南通", 
+                "displayname": "南通"
+            }, 
+            {
+                "realname": "南阳", 
+                "displayname": "南阳"
+            }, 
+            {
+                "realname": "内江", 
+                "displayname": "内江"
+            }, 
+            {
+                "realname": "宁德", 
+                "displayname": "宁德"
+            }, 
+            {
+                "realname": "怒江傈僳族自治州", 
+                "displayname": "怒江"
+            }
+        ]
+    }, 
+    {
+        "key": "P", 
+        "list": [
+            {
+                "realname": "攀枝花", 
+                "displayname": "攀枝花"
+            }, 
+            {
+                "realname": "盘锦", 
+                "displayname": "盘锦"
+            }, 
+            {
+                "realname": "平顶山", 
+                "displayname": "平顶山"
+            }, 
+            {
+                "realname": "平凉", 
+                "displayname": "平凉"
+            }, 
+            {
+                "realname": "萍乡", 
+                "displayname": "萍乡"
+            }, 
+            {
+                "realname": "莆田", 
+                "displayname": "莆田"
+            }, 
+            {
+                "realname": "濮阳", 
+                "displayname": "濮阳"
+            }, 
+            {
+                "realname": "普洱", 
+                "displayname": "普洱"
+            }
+        ]
+    }, 
+    {
+        "key": "Q", 
+        "list": [
+            {
+                "realname": "青岛", 
+                "displayname": "青岛"
+            }, 
+            {
+                "realname": "秦皇岛", 
+                "displayname": "秦皇岛"
+            }, 
+            {
+                "realname": "七台河", 
+                "displayname": "七台河"
+            }, 
+            {
+                "realname": "齐齐哈尔", 
+                "displayname": "齐齐哈尔"
+            }, 
+            {
+                "realname": "黔西南布依族苗族自治州", 
+                "displayname": "黔西南"
+            }, 
+            {
+                "realname": "钦州", 
+                "displayname": "钦州"
+            }, 
+            {
+                "realname": "清远", 
+                "displayname": "清远"
+            }, 
+            {
+                "realname": "庆阳", 
+                "displayname": "庆阳"
+            }, 
+            {
+                "realname": "衢州", 
+                "displayname": "衢州"
+            }, 
+            {
+                "realname": "曲靖", 
+                "displayname": "曲靖"
+            }, 
+            {
+                "realname": "泉州", 
+                "displayname": "泉州"
+            }
+        ]
+    }, 
+    {
+        "key": "R", 
+        "list": [
+            {
+                "realname": "日喀则地区", 
+                "displayname": "日喀则"
+            }, 
+            {
+                "realname": "日照", 
+                "displayname": "日照"
+            }
+        ]
+    }, 
+    {
+        "key": "S", 
+        "list": [
+            {
+                "realname": "上海", 
+                "displayname": "上海"
+            }, 
+            {
+                "realname": "深圳", 
+                "displayname": "深圳"
+            }, 
+            {
+                "realname": "沈阳", 
+                "displayname": "沈阳"
+            }, 
+            {
+                "realname": "三门峡", 
+                "displayname": "三门峡"
+            }, 
+            {
+                "realname": "三亚", 
+                "displayname": "三亚"
+            }, 
+            {
+                "realname": "三明", 
+                "displayname": "三明"
+            }, 
+            {
+                "realname": "山南地区", 
+                "displayname": "山南地区"
+            }, 
+            {
+                "realname": "汕头", 
+                "displayname": "汕头"
+            }, 
+            {
+                "realname": "汕尾", 
+                "displayname": "汕尾"
+            }, 
+            {
+                "realname": "商洛", 
+                "displayname": "商洛"
+            }, 
+            {
+                "realname": "商丘", 
+                "displayname": "商丘"
+            }, 
+            {
+                "realname": "上饶", 
+                "displayname": "上饶"
+            }, 
+            {
+                "realname": "韶关", 
+                "displayname": "韶关"
+            }, 
+            {
+                "realname": "邵阳", 
+                "displayname": "邵阳"
+            }, 
+            {
+                "realname": "绍兴", 
+                "displayname": "绍兴"
+            }, 
+            {
+                "realname": "十堰", 
+                "displayname": "十堰"
+            }, 
+            {
+                "realname": "石家庄", 
+                "displayname": "石家庄"
+            }, 
+            {
+                "realname": "石嘴山", 
+                "displayname": "石嘴山"
+            }, 
+            {
+                "realname": "双鸭山", 
+                "displayname": "双鸭山"
+            }, 
+            {
+                "realname": "朔州", 
+                "displayname": "朔州"
+            }, 
+            {
+                "realname": "四平", 
+                "displayname": "四平"
+            }, 
+            {
+                "realname": "松原", 
+                "displayname": "松原"
+            }, 
+            {
+                "realname": "苏州", 
+                "displayname": "苏州"
+            }, 
+            {
+                "realname": "绥化", 
+                "displayname": "绥化"
+            }, 
+            {
+                "realname": "随州", 
+                "displayname": "随州"
+            }, 
+            {
+                "realname": "遂宁", 
+                "displayname": "遂宁"
+            }
+        ]
+    }, 
+    {
+        "key": "T", 
+        "list": [
+            {
+                "realname": "唐山", 
+                "displayname": "唐山"
+            }, 
+            {
+                "realname": "天津", 
+                "displayname": "天津"
+            }, 
+            {
+                "realname": "塔城地区", 
+                "displayname": "塔城地区"
+            }, 
+            {
+                "realname": "台州", 
+                "displayname": "台州"
+            }, 
+            {
+                "realname": "太原", 
+                "displayname": "太原"
+            }, 
+            {
+                "realname": "泰安", 
+                "displayname": "泰安"
+            }, 
+            {
+                "realname": "泰州", 
+                "displayname": "泰州"
+            }, 
+            {
+                "realname": "天水", 
+                "displayname": "天水"
+            }, 
+            {
+                "realname": "铁岭", 
+                "displayname": "铁岭"
+            }, 
+            {
+                "realname": "通化", 
+                "displayname": "通化"
+            }, 
+            {
+                "realname": "通辽", 
+                "displayname": "通辽"
+            }, 
+            {
+                "realname": "铜川", 
+                "displayname": "铜川"
+            }, 
+            {
+                "realname": "铜陵", 
+                "displayname": "铜陵"
+            }, 
+            {
+                "realname": "铜仁地区", 
+                "displayname": "铜仁地区"
+            }, 
+            {
+                "realname": "吐鲁番地区", 
+                "displayname": "吐鲁番"
+            }
+        ]
+    }, 
+    {
+        "key": "W", 
+        "list": [
+            {
+                "realname": "武汉", 
+                "displayname": "武汉"
+            }, 
+            {
+                "realname": "温州", 
+                "displayname": "温州"
+            }, 
+            {
+                "realname": "无锡", 
+                "displayname": "无锡"
+            }, 
+            {
+                "realname": "威海", 
+                "displayname": "威海"
+            }, 
+            {
+                "realname": "潍坊", 
+                "displayname": "潍坊"
+            }, 
+            {
+                "realname": "渭南", 
+                "displayname": "渭南"
+            }, 
+            {
+                "realname": "文山壮族苗族自治州", 
+                "displayname": "文山"
+            }, 
+            {
+                "realname": "乌海", 
+                "displayname": "乌海"
+            }, 
+            {
+                "realname": "乌鲁木齐", 
+                "displayname": "乌鲁木齐"
+            }, 
+            {
+                "realname": "芜湖", 
+                "displayname": "芜湖"
+            }, 
+            {
+                "realname": "吴忠", 
+                "displayname": "吴忠"
+            }, 
+            {
+                "realname": "梧州", 
+                "displayname": "梧州"
+            }, 
+            {
+                "realname": "武威", 
+                "displayname": "武威"
+            }
+        ]
+    }, 
+    {
+        "key": "X", 
+        "list": [
+            {
+                "realname": "厦门", 
+                "displayname": "厦门"
+            }, 
+            {
+                "realname": "西安", 
+                "displayname": "西安"
+            }, 
+            {
+                "realname": "徐州", 
+                "displayname": "徐州"
+            }, 
+            {
+                "realname": "香港", 
+                "displayname": "香港"
+            }, 
+            {
+                "realname": "西宁", 
+                "displayname": "西宁"
+            }, 
+            {
+                "realname": "咸宁", 
+                "displayname": "咸宁"
+            }, 
+            {
+                "realname": "咸阳", 
+                "displayname": "咸阳"
+            }, 
+            {
+                "realname": "湘潭", 
+                "displayname": "湘潭"
+            }, 
+            {
+                "realname": "孝感", 
+                "displayname": "孝感"
+            }, 
+            {
+                "realname": "忻州", 
+                "displayname": "忻州"
+            }, 
+            {
+                "realname": "新乡", 
+                "displayname": "新乡"
+            }, 
+            {
+                "realname": "新余", 
+                "displayname": "新余"
+            }, 
+            {
+                "realname": "信阳", 
+                "displayname": "信阳"
+            }, 
+            {
+                "realname": "邢台", 
+                "displayname": "邢台"
+            }, 
+            {
+                "realname": "兴安盟", 
+                "displayname": "兴安盟"
+            }, 
+            {
+                "realname": "宿迁", 
+                "displayname": "宿迁"
+            }, 
+            {
+                "realname": "宿州", 
+                "displayname": "宿州"
+            }, 
+            {
+                "realname": "许昌", 
+                "displayname": "许昌"
+            }, 
+            {
+                "realname": "宣城", 
+                "displayname": "宣城"
+            }
+        ]
+    }, 
+    {
+        "key": "Y", 
+        "list": [
+            {
+                "realname": "银川", 
+                "displayname": "银川"
+            }, 
+            {
+                "realname": "雅安", 
+                "displayname": "雅安"
+            }, 
+            {
+                "realname": "烟台", 
+                "displayname": "烟台"
+            }, 
+            {
+                "realname": "延安", 
+                "displayname": "延安"
+            }, 
+            {
+                "realname": "延边朝鲜族自治州", 
+                "displayname": "延边"
+            }, 
+            {
+                "realname": "盐城", 
+                "displayname": "盐城"
+            }, 
+            {
+                "realname": "扬州", 
+                "displayname": "扬州"
+            }, 
+            {
+                "realname": "阳江", 
+                "displayname": "阳江"
+            }, 
+            {
+                "realname": "阳泉", 
+                "displayname": "阳泉"
+            }, 
+            {
+                "realname": "伊春", 
+                "displayname": "伊春"
+            }, 
+            {
+                "realname": "宜宾", 
+                "displayname": "宜宾"
+            }, 
+            {
+                "realname": "宜昌", 
+                "displayname": "宜昌"
+            }, 
+            {
+                "realname": "宜春", 
+                "displayname": "宜春"
+            }, 
+            {
+                "realname": "益阳", 
+                "displayname": "益阳"
+            }, 
+            {
+                "realname": "鹰潭", 
+                "displayname": "鹰潭"
+            }, 
+            {
+                "realname": "营口", 
+                "displayname": "营口"
+            }, 
+            {
+                "realname": "永州", 
+                "displayname": "永州"
+            }, 
+            {
+                "realname": "榆林", 
+                "displayname": "榆林"
+            }, 
+            {
+                "realname": "玉林", 
+                "displayname": "玉林"
+            }, 
+            {
+                "realname": "玉树藏族自治州", 
+                "displayname": "玉树"
+            }, 
+            {
+                "realname": "玉溪", 
+                "displayname": "玉溪"
+            }, 
+            {
+                "realname": "岳阳", 
+                "displayname": "岳阳"
+            }, 
+            {
+                "realname": "云浮", 
+                "displayname": "云浮"
+            }, 
+            {
+                "realname": "运城", 
+                "displayname": "运城"
+            }
+        ]
+    }, 
+    {
+        "key": "Z", 
+        "list": [
+            {
+                "realname": "郑州", 
+                "displayname": "郑州"
+            }, 
+            {
+                "realname": "珠海", 
+                "displayname": "珠海"
+            }, 
+            {
+                "realname": "枣庄", 
+                "displayname": "枣庄"
+            }, 
+            {
+                "realname": "湛江", 
+                "displayname": "湛江"
+            }, 
+            {
+                "realname": "张家界", 
+                "displayname": "张家界"
+            }, 
+            {
+                "realname": "张家口", 
+                "displayname": "张家口"
+            }, 
+            {
+                "realname": "张掖", 
+                "displayname": "张掖"
+            }, 
+            {
+                "realname": "漳州", 
+                "displayname": "漳州"
+            }, 
+            {
+                "realname": "昭通", 
+                "displayname": "昭通"
+            }, 
+            {
+                "realname": "肇庆", 
+                "displayname": "肇庆"
+            }, 
+            {
+                "realname": "镇江", 
+                "displayname": "镇江"
+            }, 
+            {
+                "realname": "中山", 
+                "displayname": "中山"
+            }, 
+            {
+                "realname": "中卫", 
+                "displayname": "中卫"
+            }, 
+            {
+                "realname": "舟山", 
+                "displayname": "舟山"
+            }, 
+            {
+                "realname": "周口", 
+                "displayname": "周口"
+            }, 
+            {
+                "realname": "株洲", 
+                "displayname": "株洲"
+            }, 
+            {
+                "realname": "驻马店", 
+                "displayname": "驻马店"
+            }, 
+            {
+                "realname": "资阳", 
+                "displayname": "资阳"
+            }, 
+            {
+                "realname": "淄博", 
+                "displayname": "淄博"
+            }, 
+            {
+                "realname": "自贡", 
+                "displayname": "自贡"
+            }, 
+            {
+                "realname": "遵义", 
+                "displayname": "遵义"
+            }
+        ]
+    }
+]
